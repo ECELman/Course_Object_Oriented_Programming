@@ -1,6 +1,6 @@
 # Course_Object_Oriented_Programming
 
-課堂作業與考試
+課堂作業, 考試, 期末專題
 
 # Hw1_Fall2016_A1045516
 
